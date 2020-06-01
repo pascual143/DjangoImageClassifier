@@ -1,1 +1,1 @@
-# Django-React Calsificador de Imagenes
+# Django-React Clasificador de Imagenes
